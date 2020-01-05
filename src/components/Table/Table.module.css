@@ -1,0 +1,14 @@
+.table {
+    background-color: rgb(233, 230, 230);
+    width: 100%; 
+    border-collapse: collapse;
+    color: rgb(75, 73, 72);
+    height: 400px;
+    font-family: 'Montserrat', sans-serif;
+}
+.table thead tr {font-weight: bold; 
+    border-top: 5px solid #e8e9eb;
+    
+}
+.table tr {border-bottom: 5px solid #e8e9eb;}
+.table tbody tr:hover {background: #e8f6ff;}
